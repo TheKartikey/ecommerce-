@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client";
 import { useState, useEffect } from "react";
 import CapitalizeText from "@/helpers/CapitalizeText.js";
 import useStyles from "./styles.js";

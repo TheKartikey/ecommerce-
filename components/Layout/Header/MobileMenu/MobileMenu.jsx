@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client"
 import { useState } from "react";
 import { logoutAPI } from "@/actions/auth.actions.js";
 import CapitalizeText from "@/helpers/CapitalizeText.js";

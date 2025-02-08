@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client";
 import { useState } from "react";
 import useStyles from "./styles.js";
 import theme from "@/components/Theme/theme.js";

@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client";
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import ToastStatus from "@/components/Toaster/ToastStatus";

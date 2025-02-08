@@ -2,16 +2,16 @@
 
 const nextConfig = {
   reactStrictMode: true,
-  distDir: "build",
+  distDir: ".next",
   images: {
     remotePatterns: [
       {
         protocol: "http",
-        hostname: "localhost", // Remove it on production
+        hostname: "localhost",
       },
       {
         protocol: "https",
-        hostname: "www.kiaancloud.store", // Remove it on production
+        hostname: "www.kiaancloud.store",
       },
     
       {

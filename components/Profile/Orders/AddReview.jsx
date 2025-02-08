@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client";
 import { useState } from "react";
 import { addProductReviewAPI } from "@/actions/products.actions.js";
 import { FormTextArea } from "@/helpers/FormFields";

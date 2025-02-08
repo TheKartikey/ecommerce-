@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client"
 import { useState } from "react";
 import { customerEnquiryAPI } from "@/actions/enquiry.actions.js";
 import { FormTextField, FormTextArea } from "@/helpers/FormFields.js";

@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client"
 import { useEffect, useState } from "react";
 import { useRouter, usePathname } from "next/navigation";
 import GetCountryFlag from "@/helpers/GetCountryFlag.js";

@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client"
 import { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import { createOrderAPI } from "@/actions/orders.actions.js";

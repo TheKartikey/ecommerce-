@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client"
 import { useState } from "react";
 import Link from "next/link";
 import CustomImage from "@/components/Image/CustomImage";

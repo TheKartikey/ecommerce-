@@ -1,4 +1,4 @@
-// ** Next, React And Locals Imports
+"use client";
 import { useEffect, useState } from "react";
 import CustomImage from "@/components/Image/CustomImage";
 import Toaster from "@/components/Toaster/Toaster";
